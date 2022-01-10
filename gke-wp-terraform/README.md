@@ -1,4 +1,4 @@
-**Welcome to Wordpress webiste on GKE.** 
+**Welcome to Wordpress website on GKE.** 
 
 This workshop will create the following Terraform managed resources: 
 
