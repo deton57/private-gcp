@@ -12,7 +12,9 @@ This workshop will create the following Terraform managed resources:
 
 * It will create a PD with PV and PVC.
 
-* It will create Kubernetes Secret, Service and Deployment with Wordpress.
+* It will create a Kubernetes Secret, Service and Deployment with Wordpress.
+
+* It will create a Load Balancer.
 
 Once the the run successfully finish you will be able to access your Wordpress website, 
 by accessing the external IP address in your browser. 
