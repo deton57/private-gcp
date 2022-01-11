@@ -2,13 +2,13 @@
 
 This workshop will create the following Terraform managed resources: 
 
-* It will enable API services in your GCP project
+* It will enable API services in your GCP project.
 
 * It will create a VPC, with secondary ranges and VPC service connection. 
 
-* It will create a GKE cluster 
+* It will create a standard VPC Native GKE cluster with a node pool.
 
-* It will create a CloudSQL database 
+* It will create a CloudSQL database.
 
 * It will create a PD with PV and PVC.
 
