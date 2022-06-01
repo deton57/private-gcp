@@ -8,5 +8,5 @@ variable "region" {
 }
 variable "apis" {
   type    = list(any)
-  default = ["monitoring.googleapis.com"]
+  default = [""]
 }
