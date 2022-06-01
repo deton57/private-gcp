@@ -4,6 +4,6 @@ variable "project" {
 }
 variable "apis" {
   type    = list(any)
-  default = ["monitoring.googleapis.com"]
+  default = [""]
 }
 
